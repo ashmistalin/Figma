@@ -452,6 +452,7 @@ background: url(WhatsApp Image 2023-11-06 at 11.28.jpg);
 ```
 
 ## OUTPUT:
+![bnn](https://github.com/selvasachein/Figma/assets/103128410/d850f311-b672-475d-82d8-3809a95dcc12)
 
 
 ## RESULT:
